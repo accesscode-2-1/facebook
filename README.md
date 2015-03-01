@@ -44,3 +44,13 @@ lukelee0816
 @lukelee85
 
 I am from Korea
+
+![GitHub Logo](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10929970_10205815216519289_1060223855860700859_n.jpg?oh=dd04f7111530c865ba9fee96bfde7017&oe=55777B7E&__gda__=1435136257_f4db0dd2ca3b18900490a5b29a3a5c4a)
+
+Tasha Smith
+
+tashsmit91@yahoo.com 
+
+tashsmit
+
+I love astronomy, I have a tattoo of the universe.
