@@ -372,7 +372,7 @@ MadelynTav
 
 I have 20 siblings
 
-! [GitHub Logo](https://pbs.twimg.com/profile_images/569303246616166400/UvfMHbbD.jpeg)
+![GitHub Logo](https://pbs.twimg.com/profile_images/569303246616166400/UvfMHbbD.jpeg)
 
 Jose G
 
