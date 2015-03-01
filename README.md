@@ -31,3 +31,11 @@ noidontdig
 
 I am from France
 
+Alex Samuel
+--
+* email: <alex@c4q.nyc>
+* github: [alexhsamuel](http://github.com/alexhsamuel)
+* Google: alexhsamuel
+* Skype: alexhsamuel
+
+I am from Flushing.
