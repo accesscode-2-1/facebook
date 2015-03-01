@@ -384,3 +384,11 @@ jgarcia162
 
 I can’t ride a bike! >_<
 
+Alex Samuel
+--
+* email: <alex@c4q.nyc>
+* github: [alexhsamuel](http://github.com/alexhsamuel)
+* Google: alexhsamuel
+* Skype: alexhsamuel
+
+I am from Flushing.
