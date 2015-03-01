@@ -45,7 +45,7 @@ lukelee0816
 
 I am from Korea
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
+![GitHub Logo](https://pbs.twimg.com/profile_images/3476930924/57c5a3d5f2ab5837f5e6d5cf5415e224_400x400.jpeg)
 
 Allison Bojarski
 
