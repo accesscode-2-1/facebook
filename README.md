@@ -44,3 +44,16 @@ lukelee0816
 @lukelee85
 
 I am from Korea
+
+
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90CJd_3s_k6NtmrL6qOulJDTR7P4iHTRjOCRX64mrjg_F2v8i)
+
+Rosmary Fermin
+
+Rosmaryfc@hotmail.com
+
+Rosmaryfc
+
+@FerminRosmary
+
+I’m a Junior degree black belt in Shotokan Karate
