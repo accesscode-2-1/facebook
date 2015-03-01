@@ -33,3 +33,19 @@ noidontdig
 
 I am from France
 
+![GitHub Logo](https://media.licdn.com/mpr/mpr/shrink_100_100/p/2/005/0b0/260/3ceef09.jpg)
+
+Yuliya Kaleda
+
+yulia.koleda1988@gmail.com
+
+Yuliya-Kaleda
+
+@Yuliya.Kaleda
+
+I eat chocolate before going to bed.
+
+
+
+
+
