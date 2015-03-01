@@ -19,15 +19,15 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/449406965261668352/BoRdkUNF.jpeg)
+![GitHub Logo](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/264722_650031450040_2447902_n.jpg?oh=d6c1cf0da113992651012b9fd1c3d169&oe=55811F1C&__gda__=1433966652_7f700de652fbfbf28382d4458a74d846)
 
-Alex Qin
+Abass S. Bayo-Awoyemi
 
-aq@c4q.nyc
+abass.bayo@gmail.com
 
-noidontdig
+abassawo
 
-@alexqin
+@abassrants
 
-I am from France
+I have Athlete’s heart, which means I have a really big heart!
 
