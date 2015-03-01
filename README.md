@@ -273,3 +273,15 @@ ksmaragh@gmail.com
 Fun Fact: I met Lupe Fiasco!
 
 
+![GitHub Logo](https://pbs.twimg.com/profile_images/3515965616/58d5571825ec45a8558b8e2d4f76c441.jpeg)
+
+Joshelyn Vivas
+
+jvvlives2005@hotmail.com	
+
+jvvlives2005
+
+@josiemouse12
+
+I am a Peruvian- American
+
