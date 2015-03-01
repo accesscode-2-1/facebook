@@ -21,26 +21,16 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/449406965261668352/BoRdkUNF.jpeg)
+![GitHub Logo](http://www.freelargeimages.com/wp-content/uploads/2014/11/Dominican_republic_flag-2.png)
 
-Alex Qin
+Ray Acevedo
 
-aq@c4q.nyc
+rayacevedo45@gmail.com
 
-noidontdig
+rayacevedo45
 
-@alexqin
+@rayacevedo45
 
-I am from France
+I have 6 tattoos
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
 
-Luke Lee
-
-samsung3star@gmail.com
-
-lukelee0816
-
-@lukelee85
-
-I am from Korea
