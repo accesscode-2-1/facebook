@@ -33,3 +33,14 @@ noidontdig
 
 I am from France
 
+![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
+
+Luke Lee
+
+samsung3star@gmail.com
+
+lukelee0816
+
+@lukelee85
+
+I am from Korea
