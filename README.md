@@ -31,3 +31,16 @@ noidontdig
 
 I am from France
 
+
+![Marbella](http://s18.postimg.org/w87mv6ebt/546550_3423396579287_1252287712_n.jpg)
+
+Marbella Vidals
+
+m.vidals047@gmail.com
+
+m47bell
+
+@Vidals047M
+
+I collected samples from the Hudson river when the water temperature was 25F.
+
