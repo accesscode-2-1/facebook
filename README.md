@@ -47,6 +47,8 @@ I am from Korea
 
 ![alt text](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/534236_319589264805921_1214613467_n.jpg)
 
+![alt text](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/534236_319589264805921_1214613467_n.jpg?oh=8de6bdc390d8d549c3d4fabbd0116d26&oe=557CA3DC&__gda__=1431079573_347cc39cb36fa0b1c3e8f80e31d31204)
+
 Na Li
 
 annalinewyork@gmail.com
