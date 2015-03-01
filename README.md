@@ -158,3 +158,16 @@ Rosmaryfc
 
 I’m a Junior degree black belt in Shotokan Karate
 
+
+![Anthony Fermin](https://lh6.googleusercontent.com/ZCUnCwN4FDElho2ejkPOS9BIE7vRNkIdBhAFE0sMxsoMF3AHYda940wHGsERq1uEboBoX02R_zg=w1256-h517)
+
+Anthony Fermin
+
+AnthonyFerminAFC@gmail.com
+
+AnthonyFermin
+
+@fermin_anthony
+
+I lived in Corona, Queens my entire life
+
