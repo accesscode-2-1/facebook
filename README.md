@@ -108,3 +108,13 @@ fattyduck
 I am planning to make this world a better place someday through technology.
 
 
+![GitHub Logo](https://scontent-atl.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10483855_10152976504152386_583494712378602187_n.jpg?oh=fec7ffb788e8294a10a560f906811f6c&oe=55759FBB)
+
+Hanbi(Hans) Choi
+
+personabe1984@gmail.com
+
+personabe1q84
+
+I make a kick ass curry!
+
