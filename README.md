@@ -21,15 +21,12 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/449406965261668352/BoRdkUNF.jpeg)
-
-Alex Qin
-
-aq@c4q.nyc
-
-noidontdig
-
-@alexqin
-
-I am from France
-
+———————————————
+This should be a new file, containing my name, but it may be a shared one, not sure.
+Photo
+Name: George Syrimis
+Email: gmsyrimis@gmail.com
+GitHub: gmsyrimis
+Twitter: gmsyrimis
+Fun fact: hedgehogs are not blue
+________________
