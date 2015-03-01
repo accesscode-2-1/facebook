@@ -260,3 +260,16 @@ sufeiiz
 @sufeizhao
 
 I can tie my shoelace in 1 second, and I can teach you to do the same! I swear I knew how to do this before all the youtube videos came out…
+
+
+![GitHub Logo](https://pbs.twimg.com/profile_images/571868922027073536/0IWzBDuI.jpeg)
+
+Kadeem Maragh
+
+ksmaragh@gmail.com
+
+@ksmaragh
+
+Fun Fact: I met Lupe Fiasco!
+
+
