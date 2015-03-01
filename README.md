@@ -44,3 +44,19 @@ lukelee0816
 @lukelee85
 
 I am from Korea
+
+![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
+
+Allison Bojarski
+
+allisonlbojarski@gmail.com
+
+alizinha
+
+@alizinha
+
+I still sing Balkan folk music. 
+
+
+
+
