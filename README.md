@@ -23,10 +23,11 @@
 
 ———————————————
 This should be a new file, containing my name, but it may be a shared one, not sure.
-Photo
-Name: George Syrimis
-Email: gmsyrimis@gmail.com
-GitHub: gmsyrimis
-Twitter: gmsyrimis
+![Goku](http://media.giphy.com/media/ezvedmeWGbNba/giphy.gif)
+Name: #George Syrimis#
+Email: *gmsyrimis@gmail.com*
+* **Handles**
+	* GitHub: gmsyrimis
+	* Twitter: gmsyrimis
 Fun fact: hedgehogs are not blue
 ________________
