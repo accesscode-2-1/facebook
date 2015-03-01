@@ -44,3 +44,15 @@ lukelee0816
 @lukelee85
 
 I am from Korea
+
+![GitHub Logo](http://i62.tinypic.com/zoffo9.jpg)
+
+Ramona Harrison
+
+ramonaliza@gmail.com
+
+ramonaharrison
+
+@_cordlessphone_
+
+I'm a CitiBike mechanic
