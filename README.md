@@ -307,3 +307,14 @@ Email: *gmsyrimis@gmail.com*
 	* GitHub: gmsyrimis
 	* Twitter: gmsyrimis
 
+![GitHub Logo](http://www.zastavki.com/pictures/originals/2013/Cartoons_Minions_little_girl_051610_.jpg)
+
+Sarah H. Kim
+
+hyunj0@hotmail.com
+
+hyunj0
+
+@sarahkim0925
+
+I can ghost ride bikes
