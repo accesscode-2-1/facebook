@@ -56,3 +56,27 @@ ramonaharrison
 @\_cordlessphone\_
 
 I'm a CitiBike mechanic
+
+![GitHub Logo](http://i62.tinypic.com/zoffo9.jpg)
+
+
+![GitHub Logo](http://photos1.meetupstatic.com/photos/member/e/8/1/4/highres_189419412.jpeg)
+
+Janneisy Vidals
+
+janneisyvidals@gmail.com
+
+I'm a graphic designer.
+
+Jvidals1
+
+@jann vid
+
+
+
+
+
+
+
+
+
