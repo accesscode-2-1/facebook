@@ -18,7 +18,7 @@
 5. Add + Commit your changes with git
 6. `git push origin your-github-username` // This will push your changes to a remote branch called your-github-username
 7. Create a pull request on Github
-8. Someone else reviews your code and merges the pull request 
+8. Someone else reviews your code and merges the pull request
 
 
 ![GitHub Logo](https://pbs.twimg.com/profile_images/449406965261668352/BoRdkUNF.jpeg)
@@ -45,6 +45,7 @@ lukelee0816
 
 I am from Korea
 
+
 ![GitHub Logo](http://i62.tinypic.com/zoffo9.jpg)
 
 Ramona Harrison
@@ -68,3 +69,19 @@ jorgereina1986
 @jorgereina1986
 
 I love NYC night life!
+
+
+![GitHub Logo](https://pbs.twimg.com/profile_images/3476930924/57c5a3d5f2ab5837f5e6d5cf5415e224_400x400.jpeg)
+
+Allison Bojarski
+
+allisonlbojarski@gmail.com
+
+alizinha
+
+@alizinha
+
+I still sing Balkan folk music.
+
+
+
