@@ -33,3 +33,15 @@ noidontdig
 
 I am from France
 
+! [GitHub Logo] (https://pbs.twimg.com/profile_images/569303246616166400/UvfMHbbD.jpeg)
+
+Jose G
+
+jogarcia809@yahoo.com
+ 
+jgarcia162
+
+@AyoJoanks
+
+I can’t ride a bike! >_<
+
