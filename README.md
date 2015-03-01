@@ -32,6 +32,19 @@ charlyn23
 My name is a hybrid of my parents'.'
 
 
+![GitHub Logo](https://pbs.twimg.com/profile_images/530764340672987136/3JyIrrbL.jpeg)
+
+Abass S. Bayo-Awoyemi
+
+abass.bayo@gmail.com
+
+abassawo
+
+@abassrants
+
+I have Athlete’s heart, which means I have a really big heart!
+
+
 ![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
 
 Luke Lee
