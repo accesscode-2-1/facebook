@@ -299,3 +299,11 @@ Amcbri15
 I love video games.
 
 
+![Goku](http://media.giphy.com/media/ezvedmeWGbNba/giphy.gif)
+
+Name: # George Syrimis #
+Email: *gmsyrimis@gmail.com*
+* **Handles**
+	* GitHub: gmsyrimis
+	* Twitter: gmsyrimis
+
