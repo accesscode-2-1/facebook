@@ -21,7 +21,7 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-![GitHub Logo](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/264722_650031450040_2447902_n.jpg?oh=d6c1cf0da113992651012b9fd1c3d169&oe=55811F1C&__gda__=1433966652_7f700de652fbfbf28382d4458a74d846)
+![GitHub Logo](https://pbs.twimg.com/profile_images/530764340672987136/3JyIrrbL.jpeg)
 
 Abass S. Bayo-Awoyemi
 
