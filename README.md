@@ -249,3 +249,14 @@ tashsmit
 
 I love astronomy, I have a tattoo of the universe.
 
+![GitHub Logo](http://s16.postimg.org/5qvasoa79/IMG_5528.jpg)
+
+Sufei Zhao
+
+szhao2@gmail.com
+
+sufeiiz
+
+@sufeizhao
+
+I can tie my shoelace in 1 second, and I can teach you to do the same! I swear I knew how to do this before all the youtube videos came out…
