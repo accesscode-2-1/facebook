@@ -33,6 +33,7 @@ noidontdig
 
 I am from France
 
+![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
 
 Luke Lee
 
@@ -130,4 +131,17 @@ annalinewyork
 @annalinewyork
 
 I wish I can do this!
+
+
+![GitHub Logo](https://media.licdn.com/mpr/mpr/shrink_100_100/p/2/005/0b0/260/3ceef09.jpg)
+
+Yuliya Kaleda
+
+yulia.koleda1988@gmail.com
+
+Yuliya-Kaleda
+
+@Yuliya.Kaleda
+
+I eat chocolate before going to bed.
 
