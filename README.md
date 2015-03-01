@@ -44,3 +44,15 @@ lukelee0816
 @lukelee85
 
 I am from Korea
+
+![Github Logo](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/17489_10151322163923191_1973949665_n.jpg?oh=aec8ba81fe3b7cf1ae0852f0bffe04b3&oe=557FE69D&__gda__=1435828138_4157ef20db1821471c596f8aaa6f4c51)
+
+John Gomez
+
+Jgomez818@gmail.com
+
+lighterletter
+
+@lighterletter
+
+I love anything that has to do with physics and space
