@@ -1,4 +1,4 @@
-**Add your personal information for the Access Coder Facebook!**
+dd your personal information for the Access Coder Facebook!**
 
 * Photo
 * Name
@@ -10,9 +10,7 @@
 **Steps**
 
 1. Clone the repository
-2. Cd into the repository
 2. `git checkout -b your-github-username` // This will create a local branch for your to work on called your-github-username
-3. `open README.md`
 3. Add your info to `README.md` (use Markdown!)
 4. Save `README.md`
 5. Add + Commit your changes with git
@@ -226,3 +224,15 @@ jaellysbales
 
 Sources of power include **dollar-slice pizza** and **good-bad movies**.
 
+
+![GitHub Logo](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/09c/197/2d5bf4d.jpg)
+
+Alvin Kuang
+
+alvkuang@gmail.com
+
+ahhhlvin
+
+@ahhhlvin
+
+I like doing yoga.
