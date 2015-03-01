@@ -54,4 +54,4 @@ personabe1984@gmail.com
 
 personabe1q84
 
-I make a kick ass curry.
+I make a kick ass curry!
