@@ -33,6 +33,7 @@ noidontdig
 
 I am from France
 
+
 ![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
 
 Luke Lee
@@ -197,3 +198,14 @@ eboves
 I am from Brooklyn
 
 
+![Reinard Cox] (https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1379321_700743619953533_314256715_n.png?oh=e86d17f530ee8298afc8e5b29abf83c7&oe=5580EA49&__gda__=1434974010_07a646fe518c0ade1840a9141bf86180)
+
+Reinard Cox
+
+helpdesk@reinardcox.com
+
+ReinardCox
+
+@djshadowslim
+
+I am from Jamaica W.I.
