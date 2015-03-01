@@ -56,3 +56,15 @@ ramonaharrison
 @\_cordlessphone\_
 
 I'm a CitiBike mechanic
+
+![GitHub Logo] (https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/092/058/1ce8cd1.jpg)
+
+Jorge Reina
+
+jorgereina1986@gmail.com
+
+jorgereina1986
+
+@jorgereina1986
+
+I love NYC night life!
