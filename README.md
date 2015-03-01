@@ -19,7 +19,7 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/449406965261668352/BoRdkUNF.jpeg)
+![GitHub Logo](https://lh5.googleusercontent.com/-i25xyK7ALT8/AAAAAAAAAAI/AAAAAAAAAYM/hiDE6rhyVME/photo.jpg)
 
 Alex Qin
 
@@ -30,4 +30,17 @@ noidontdig
 @alexqin
 
 I am from France
+
+
+![GitHub Logo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi_q0w3Ah9Za1vi9bbmag7-POPAPEP6Qc_BQNhVlg3O7oyp30Y7d5aZtk)
+
+Madelyn Tavarez
+
+MadelynTav@gmail.com
+
+MadelynTav
+
+@Mad_Wander
+
+I have 20 siblings
 
