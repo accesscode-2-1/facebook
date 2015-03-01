@@ -21,13 +21,17 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-———————————————
-This should be a new file, containing my name, but it may be a shared one, not sure.
-![Goku](http://media.giphy.com/media/ezvedmeWGbNba/giphy.gif)
-Name: #George Syrimis#
+———————————————  
+
+This should be a new file, containing my name, but it may be a shared one, not sure.  
+
+![Goku](http://media.giphy.com/media/ezvedmeWGbNba/giphy.gif)  
+
+Name: # George Syrimis #
 Email: *gmsyrimis@gmail.com*
 * **Handles**
 	* GitHub: gmsyrimis
-	* Twitter: gmsyrimis
-Fun fact: hedgehogs are not blue
-________________
+	* Twitter: gmsyrimis  
+
+Fun fact: hedgehogs are not blue  
+________________  
