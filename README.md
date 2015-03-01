@@ -95,3 +95,16 @@ rayacevedo45
 I have 6 tattoos
 
 
+![GitHub Logo](http://i3.photobucket.com/albums/y71/larlar_ulysses/ChibiGinji.jpg)
+
+Dison Ruan
+
+dison.ruan@yahoo.com
+
+fattyduck
+
+@disonruan
+
+I am planning to make this world a better place someday through technology.
+
+
