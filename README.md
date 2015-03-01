@@ -21,15 +21,15 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/449406965261668352/BoRdkUNF.jpeg)
+![GitHub Logo](https://scontent-atl.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1511487_963576977013_356503129_o.jpg)
 
-Alex Qin
+Charlyn Buchanan
 
-aq@c4q.nyc
+charlyn.buchanan@gmail.com
 
-noidontdig
+charlyn23
 
-@alexqin
+@charlynbuchanan
 
-I am from France
+My name is a hybrid of my parents'.'
 
