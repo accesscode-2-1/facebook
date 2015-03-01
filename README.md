@@ -31,3 +31,15 @@ noidontdig
 
 I am from France
 
+![Hoshiko Oki pic](http://i.imgur.com/ifnWfqb.jpg)
+
+Hoshiko Oki
+
+hoshikooki@gmail.com
+
+hoshikoo
+
+@HoshikoOki
+
+I am from **Tokyo, Japan**
+
