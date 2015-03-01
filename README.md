@@ -19,7 +19,7 @@
 8. Someone else reviews your code and merges the pull request 
 
 
-![GitHub Logo](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=https%3A%2F%2Ftwitter.com%2Falexqin&ei=PEfzVN3DCNDisAT73IBw&bvm=bv.87269000,d.cWc&psig=AFQjCNH62GL3iu2BGRinDw8wIwhWQ5JRRw&ust=1425316025623266)
+![GitHub Logo](https://pbs.twimg.com/profile_images/449406965261668352/BoRdkUNF.jpeg)
 
 Alex Qin
 
