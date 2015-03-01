@@ -46,6 +46,8 @@ lukelee0816
 
 I am from Korea
 
+
+
 ![GitHub Logo](http://i62.tinypic.com/zoffo9.jpg)
 
 Ramona Harrison
@@ -209,3 +211,18 @@ ReinardCox
 @djshadowslim
 
 I am from Jamaica W.I.
+
+
+
+![Jaellys Bales](https://avatars3.githubusercontent.com/u/11069861?v=3&s=460)
+
+Jaellys Bales
+
+jaellysbales@gmail.com
+
+jaellysbales
+
+@jaellysbales
+
+Sources of power include **dollar-slice pizza** and **good-bad movies**.
+
