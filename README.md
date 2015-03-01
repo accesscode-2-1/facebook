@@ -17,3 +17,16 @@
 6. `git push origin your-github-username` // This will push your changes to a remote branch called your-github-username
 7. Create a pull request on Github
 8. Someone else reviews your code and merges the pull request 
+
+![Git photo](https://pbs.twimg.com/profile_images/1629636175/PhotoshopProfilePic2.jpg)
+
+Anthony McBride
+
+anthony.mcbride0711@gmail.com
+
+Amcbri15
+
+@McBride_Anthony
+
+I love video games.
+
