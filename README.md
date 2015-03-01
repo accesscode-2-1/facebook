@@ -346,3 +346,15 @@ m47bell
 I collected samples from the Hudson river when the water temperature was 25F.
 
 
+![Hoshiko Oki pic](http://i.imgur.com/ifnWfqb.jpg)
+
+Hoshiko Oki
+
+hoshikooki@gmail.com
+
+hoshikoo
+
+@HoshikoOki
+
+I am from **Tokyo, Japan**
+
