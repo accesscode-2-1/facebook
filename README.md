@@ -44,3 +44,15 @@ lukelee0816
 @lukelee85
 
 I am from Korea
+
+![Jaellys Bales](https://avatars3.githubusercontent.com/u/11069861?v=3&s=460)
+
+Jaellys Bales
+
+jaellysbales@gmail.com
+
+jaellysbales
+
+@jaellysbales
+
+Sources of power include **dollar-slice pizza** and **good-bad movies**.
