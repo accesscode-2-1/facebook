@@ -45,8 +45,6 @@ lukelee0816
 
 I am from Korea
 
-
-
 ![GitHub Logo](http://i62.tinypic.com/zoffo9.jpg)
 
 Ramona Harrison
@@ -184,4 +182,18 @@ lighterletter
 @lighterletter
 
 I love anything that has to do with physics and space
+
+
+![GitHub Logo](https://pbs.twimg.com/profile_images/431786002659569664/yby1mQ4f.jpeg)
+
+Elvis Boves
+
+e.boves@gmail.com
+
+eboves
+
+@BovesElvis
+
+I am from Brooklyn
+
 
