@@ -1,4 +1,4 @@
-dd your personal information for the Access Coder Facebook!**
+Add your personal information for the Access Coder Facebook!**
 
 * Photo
 * Name
@@ -377,7 +377,7 @@ I have 20 siblings
 Jose G
 
 jogarcia809@yahoo.com
- 
+
 jgarcia162
 
 @AyoJoanks
