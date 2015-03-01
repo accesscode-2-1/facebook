@@ -33,7 +33,6 @@ noidontdig
 
 I am from France
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/571844329593782272/RsBm0LgY_400x400.jpeg)
 
 Luke Lee
 
@@ -83,5 +82,16 @@ alizinha
 
 I still sing Balkan folk music.
 
+![GitHub Logo](http://www.freelargeimages.com/wp-content/uploads/2014/11/Dominican_republic_flag-2.png)
+
+Ray Acevedo
+
+rayacevedo45@gmail.com
+
+rayacevedo45
+
+@rayacevedo45
+
+I have 6 tattoos
 
 
