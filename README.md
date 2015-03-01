@@ -277,11 +277,25 @@ Fun Fact: I met Lupe Fiasco!
 
 Joshelyn Vivas
 
-jvvlives2005@hotmail.com	
+jvvlives2005@hotmail.com
 
 jvvlives2005
 
 @josiemouse12
 
 I am a Peruvian- American
+
+
+![Git photo](https://pbs.twimg.com/profile_images/1629636175/PhotoshopProfilePic2.jpg)
+
+Anthony McBride
+
+anthony.mcbride0711@gmail.com
+
+Amcbri15
+
+@McBride_Anthony
+
+I love video games.
+
 
