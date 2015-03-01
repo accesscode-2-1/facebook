@@ -42,4 +42,5 @@ ksmaragh@gmail.com
 
 @ksmaragh
 
+Fun Fact: I met Lupe Fiasco!
 
