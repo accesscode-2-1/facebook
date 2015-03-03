@@ -53,11 +53,11 @@ ________________________________________________________________________________
 
 Luke Lee
 
-samsung3star@gmail.com
+lukesterlee@gmail.com
 
 lukelee0816
 
-@lukelee85
+@lukesterlee
 
 I am from Korea
 
