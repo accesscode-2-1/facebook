@@ -384,15 +384,6 @@ jgarcia162
 
 I can’t ride a bike! >_<
 
-Alex Samuel
---
-* email: <alex@c4q.nyc>
-* github: [alexhsamuel](http://github.com/alexhsamuel)
-* Google: alexhsamuel
-* Skype: alexhsamuel
-
-I am from Flushing.
-
 ![GitHub Logo] (https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/025/305/24b4719.jpg)
 
 Vanice Yee
@@ -404,3 +395,21 @@ theaulait
 @tailchasingwolf
 
 I have first year medical school knowledge.
+
+Alex Samuel
+--
+* email: <alex@c4q.nyc>
+* github: [alexhsamuel](http://github.com/alexhsamuel)
+* Google: alexhsamuel
+* Skype: alexhsamuel
+
+I am from Flushing.
+
+Gregory Gundersen
+-
+* greg@c4q.nyc
+* GitHub: [ggundersen](https://github.com/ggundersen)
+* Twitter: [greggundersen](https://twitter.com/greggundersen)
+* Google+: ggundersen
+
+> My doctor gave me my middle name.
