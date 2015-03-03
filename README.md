@@ -392,3 +392,15 @@ Alex Samuel
 * Skype: alexhsamuel
 
 I am from Flushing.
+
+![GitHub Logo] (https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/025/305/24b4719.jpg)
+
+Vanice Yee
+
+vanice.yee@gmail.com
+
+theaulait
+
+@tailchasingwolf
+
+I have first year medical school knowledge.
