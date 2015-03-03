@@ -340,16 +340,13 @@ I love video games.
 
 _______________________________________________________________________________________________________________  
 
-George Syrimis    
+George Syrimis  
+![George](https://lh3.googleusercontent.com/-u9-5SE8VA1w/AAAAAAAAAAI/AAAAAAAABMk/R9DwIlqU930/photo.jpg)  
+Fun Fact: When fixing things, I sometimes end up breaking them.  
+Email: gmsyrimis@gmail.com
+Twitter: gmsyrimis
+GitHub: gmsyrimis
 
-![George](https://www.facebook.com/photo.php?fbid=10150640923863633&l=a83db3a030 =250x)  
-
-Fun fact: That's a NYFA shortfilm still  
-
-Email: *gmsyrimis@gmail.com*
-* **Handles**
-	* GitHub: gmsyrimis
-	* Twitter: gmsyrimis
 _______________________________________________________________________________________________________________  
 
 ![GitHub Logo](http://www.zastavki.com/pictures/originals/2013/Cartoons_Minions_little_girl_051610_.jpg)
