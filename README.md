@@ -418,7 +418,7 @@ I can’t ride a bike! >_<
 
 _______________________________________________________________________________________________________________
 
-![GitHub Logo](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/025/305/24b4719.jpg)
+![GitHub Logo](http://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/025/305/24b4719.jpg)
 
 Vanice Yee
 
