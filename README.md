@@ -74,8 +74,6 @@ ramonaharrison
 @\_cordlessphone\_
 
 I'm a CitiBike mechanic
-
-<<<<<<< HEAD
 _______________________________________________________________________________________________________________
 
 ![GitHub Logo](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/092/058/1ce8cd1.jpg)
