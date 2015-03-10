@@ -236,7 +236,7 @@ helpdesk@reinardcox.com
 
 ReinardCox
 
-@djshadowslim
+@reinard_cox
 
 I am from Jamaica W.I.
 
