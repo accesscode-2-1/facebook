@@ -312,7 +312,7 @@ Fun Fact: I met Lupe Fiasco!
 
 _______________________________________________________________________________________________________________
 
-![GitHub Logo](https://pbs.twimg.com/profile_images/3515965616/58d5571825ec45a8558b8e2d4f76c441.jpeg)
+![GitHub Logo](https://avatars1.githubusercontent.com/u/11141437?v=3&s=460)
 
 Joshelyn Vivas
 jvvlives2005@hotmail.com
