@@ -247,14 +247,9 @@ ________________________________________________________________________________
 
 Jaellys Bales
 
-jaellysbales@gmail.com
-
 jaellysbales
 
 @jaellysbales
-
-Sources of power include **dollar-slice pizza** and **good-bad movies**.
-
 _______________________________________________________________________________________________________________
 
 ![GitHub Logo](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/09c/197/2d5bf4d.jpg)
